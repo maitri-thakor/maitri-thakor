@@ -28,7 +28,7 @@ I'm currently open to new opportunities and collaboration opportunities! Whether
 ## Contact Me
 
 Feel free to reach out to me via:
-- Email: maitrithakor@gamil.com
-- LinkedIn:(https://www.linkedin.com/in/maitri-thakor/)
+- [Email](maitrithakor@gamil.com)
+- [LinkedIn]((https://www.linkedin.com/in/maitri-thakor/))
 
 Thank you for visiting my portfolio! Happy coding! 🚀
