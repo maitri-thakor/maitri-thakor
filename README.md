@@ -1,7 +1,7 @@
 ### Kia Ora! 
 # Welcome to Maitri's Portfolio!
 
-😄 Pronouns: she/her
+Pronouns: she/her
 Hello there! I'm Maitri, a passionate 👩‍💻 full-stack developer with a love for technology. Welcome to my GitHub portfolio where I showcase some of my projects and contributions.
 
 ## About Me
@@ -14,6 +14,12 @@ In this portfolio, you'll find a variety of projects ranging from personal exper
 
 ## Projects
 🌱 Current Project: Online website for a Health & Wellness 
+
+### Other Projects:
+- **[Re-Solve](https://github.com/maitri-thakor/Re-Solve)** 
+- **[Kes-Ke-Say](https://github.com/maitri-thakor/Kes-Ke-Say)** 
+- **[Todo-Full-Stack](https://github.com/maitri-thakor/todo-full-stack)** 
+
 
 ## Open to Work and Collaboration
 
